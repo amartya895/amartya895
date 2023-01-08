@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Android Development
 - 💬 Ask me about Mean Stack Web Developement 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amartya-sen-038955178/)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Marvel's Fan
 
 ### 💼 Languages and Tools:
@@ -18,7 +18,7 @@
 
 ### 📈 My GitHub Stats
 
-[![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amartya895&count_private=true&show_icons=true&theme=dracula)](https://github.com/amartya895/)
+[![Amartya's GitHub stats](https://github-readme-stats.vercel.app/api?username=amartya895&count_private=true&show_icons=true&theme=dracula)](https://github.com/amartya895/)
 
 <table>
   <tr>
