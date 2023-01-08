@@ -15,3 +15,14 @@
 ### 📈 My GitHub Stats
 
 [![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amartya895&count_private=true&show_icons=true&theme=dracula)](https://github.com/amartya895/)
+
+<table>
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amartya895&layout=compact&langs_count=8&theme=algolia"/> 
+    </td>
+    <td>
+      <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amartya895&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+    </td>
+  </tr>
+</table>
