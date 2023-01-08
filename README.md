@@ -19,10 +19,10 @@
 <table>
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amartya895&layout=compact&langs_count=8&theme=algolia"/> 
+      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amartya895&layout=compact&langs_count=8&theme=dracula"/> 
     </td>
     <td>
-      <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amartya895&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+      <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amartya895&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0" />
     </td>
   </tr>
 </table>
