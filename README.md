@@ -1,4 +1,4 @@
-### Hi there , I am Amartya Sen 👋
+<h2 align="center">Hi there , I am Amartya Sen 👋</h2>
 
 <h3 align="center">A passionate Android & Full-stack Web developer</h3>
 
