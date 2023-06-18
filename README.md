@@ -25,7 +25,7 @@
     <ul>
       <li>🔭 I’m currently working on a project of Ecommerce Website using Angular</li>
       <li>🌱 I’m currently pursuing B.tech CSE</li>
-      <li>👯 I’m looking to collaborate on Android Development, Angular, JavaScript, C, C++</li>
+      <li>👯 I’m looking to collaborate on Android Development, Reactjs, C, C++</li>
       <li>🤔 I’m looking for help with Android Development</li>
       <li>💬 Ask me about Mean Stack Web Development</li>
       <li>📫 How to reach me: <a href="https://www.linkedin.com/in/amartya-sen-038955178/">Linkedin</a></li>
