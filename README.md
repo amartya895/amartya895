@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartya895&label=Profile%20views&color=0e75b6&style=flat" alt="amartya895" /> </p>
 
+<p  align="right"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
 - 🔭 I’m currently working on a project of Ecommerce Website using Angular
 - 🌱 I’m currently pursuing B.tech CSE
 - 👯 I’m looking to collaborate on Android Development, Angular, JavaScript, C, C++ 
