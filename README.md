@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a project of Hotel Booking Website <br>
   using ReactJs and NodeJs
 - 🌱 I’m currently pursuing B.tech CSE
-- 👯 I’m looking to collaborate on Android Development, Angular,<br>
+- 👯 I’m looking to collaborate on Android Development, ReactJs , NodeJs<br>
   JavaScript, C, C++ 
 - 🤔 I’m looking for help with Android Development
 - 💬 Ask me about Mean Stack Web Developement 
