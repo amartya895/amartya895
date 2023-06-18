@@ -33,9 +33,9 @@
       <li>⚡ Fun fact: Marvel's Fan</li>
     </ul>
   </div>
-  <div style="text-align: right;">
+  <div style="text-align: right;>
     <p align="right">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300" style="margin-top: -30px;">
     </p>
   </div>
 </div>
