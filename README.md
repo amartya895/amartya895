@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartya895&label=Profile%20views&color=0e75b6&style=flat" alt="amartya895" /> </p>
   
-- 🔭 I’m currently working on a project of Ecommerce Website <br>
-  using Angular
+- 🔭 I’m currently working on a project of Hotel Booking Website <br>
+  using ReactJs and NodeJs
 - 🌱 I’m currently pursuing B.tech CSE
 - 👯 I’m looking to collaborate on Android Development, Angular,<br>
   JavaScript, C, C++ 
