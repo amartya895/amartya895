@@ -6,10 +6,10 @@
 
 <p  align="right"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
   
-- 🔭 I’m currently working on a project of Ecommerce Website
+- 🔭 I’m currently working on a project of Ecommerce Website <br>
   using Angular
 - 🌱 I’m currently pursuing B.tech CSE
-- 👯 I’m looking to collaborate on Android Development, Angular,
+- 👯 I’m looking to collaborate on Android Development, Angular,<br>
   JavaScript, C, C++ 
 - 🤔 I’m looking for help with Android Development
 - 💬 Ask me about Mean Stack Web Developement 
