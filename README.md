@@ -17,15 +17,15 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Marvel's Fan
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: inline-flex; align-items: center; justify-content: space-between;">
   <div style="text-align: left;">
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=amartya895&label=Profile%20views&color=0e75b6&style=flat" alt="amartya895" />
     </p>
     <ul>
-      <li>🔭 I’m currently working on a project of Ecommerce Website  <br> using Angular</li>
+      <li>🔭 I’m currently working on a project of Ecommerce Website using Angular</li>
       <li>🌱 I’m currently pursuing B.tech CSE</li>
-      <li>👯 I’m looking to collaborate on Android Development, Angular,  <br> JavaScript, C, C++</li>
+      <li>👯 I’m looking to collaborate on Android Development, Angular, JavaScript, C, C++</li>
       <li>🤔 I’m looking for help with Android Development</li>
       <li>💬 Ask me about Mean Stack Web Development</li>
       <li>📫 How to reach me: <a href="https://www.linkedin.com/in/amartya-sen-038955178/">Linkedin</a></li>
@@ -39,6 +39,7 @@
     </p>
   </div>
 </div>
+
 
 
 ### 💼 Languages and Tools:
