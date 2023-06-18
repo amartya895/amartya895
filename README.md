@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Android & Full-stack Web developer</h3>
 
-<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amartya895&label=Profile%20views&color=0e75b6&style=flat" alt="amartya895" /> </p>
   
