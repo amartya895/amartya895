@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on a project of Hotel Booking Website <br>
   using ReactJs and NodeJs
 - 🌱 I’m currently pursuing B.tech CSE
-- 👯 I’m looking to collaborate on Android Development, ReactJs , NodeJs<br>
-  JavaScript, C, C++ 
+- 👯 I’m looking to collaborate on Android Development, ReactJs ,<br>
+  NodeJs,JavaScript, C, C++ 
 - 🤔 I’m looking for help with Android Development
 - 💬 Ask me about Mean Stack Web Developement 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amartya-sen-038955178/)
