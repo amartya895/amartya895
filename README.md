@@ -1,5 +1,3 @@
-![github-header-image](https://user-images.githubusercontent.com/71259159/171179743-4f9d41db-0951-49a3-b8d2-43576d722893.png)
-
 <h2 align="center">Hi there , I am Amartya Sen 👋</h2>
 
 <h3 align="center">A passionate Android & Full-stack Web developer</h3>
